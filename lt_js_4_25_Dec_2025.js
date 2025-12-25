@@ -4,8 +4,8 @@
  * Long term studying of JavaScript
  * Resource: https://javascript.info/
  * Topic: An introduction to JavaScript
- * Where At: https://youtu.be/Oe421EPjeBE?si=Vti_miGF0h9T0Eri
- *           start with this courses, will study by project based learning
+ * Where At: https://javascript.info/operators
+ *           Basic operators, maths
  * @author StevenAcan <stevenacan@outlook.com>
  * @created 2025-12-25
  * @modified 2025-12-25
