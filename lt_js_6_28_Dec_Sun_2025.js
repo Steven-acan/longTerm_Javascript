@@ -1,5 +1,5 @@
 /**
- * @file lt_js_6_26_Dec_Sun_2025.js
+ * @file lt_js_6_28_Dec_Sun_2025.js
  * @description
  * Long term studying of JavaScript
  * Resource: https://javascript.info/
